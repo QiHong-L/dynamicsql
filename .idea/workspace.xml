@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57803255-55be-48b0-9bd8-f479ecd7b498" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/po/CustomerQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37622fd95a32503895545866ca56a6bc9b231038" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37622fd95a32503895545866ca56a6bc9b231038" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/mapper/CustomerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/mapper/CustomerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/test/MybatisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.itheima.mapper</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>demo.mapper</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\学习\大三下学期\J2EE\学习资料\第九周\dynamicsql\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\学习\卓越班\SDonload\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1870" />
+    <option name="height" value="1014" />
+  </component>
+  <component name="ProjectId" id="1ay6LqFY8kGmE8zQo18O2LIoXKI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587693608208" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\班级情况\学生的代码\springboot6\dynamicsql\src\main\java\demo" />
+      <recent name="E:\班级情况\学生的代码\springboot6\dynamicsql\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.dynamicForeachMapTest">
+    <configuration name="MybatisTest.dynamicForeach3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dynamicsql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.test" />
+      <option name="MAIN_CLASS_NAME" value="demo.test.MybatisTest" />
+      <option name="METHOD_NAME" value="dynamicForeach3Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.dynamicForeachMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dynamicsql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.test" />
+      <option name="MAIN_CLASS_NAME" value="demo.test.MybatisTest" />
+      <option name="METHOD_NAME" value="dynamicForeachMapTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.findCustomerByNameAndJobsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dynamicsql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.test" />
+      <option name="MAIN_CLASS_NAME" value="demo.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findCustomerByNameAndJobsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.StringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dynamicsql" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringTest" />
+      <option name="METHOD_NAME" value="StringTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.dynamicForeachMapTest" />
+        <item itemvalue="JUnit.MybatisTest.dynamicForeach3Test" />
+        <item itemvalue="JUnit.StringTest.StringTest" />
+        <item itemvalue="JUnit.MybatisTest.findCustomerByNameAndJobsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57803255-55be-48b0-9bd8-f479ecd7b498" name="Default Changelist" comment="" />
+      <created>1587307655743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587307655743</updated>
+      <workItem from="1587307658205" duration="338000" />
+      <workItem from="1587600662529" duration="3780000" />
+      <workItem from="1587647577076" duration="885000" />
+      <workItem from="1587692977004" duration="627000" />
+      <workItem from="1587695438800" duration="60000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1587603502747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587603502747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1587603622415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587603622415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次提交">
+      <created>1587603700644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587603700644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次提交">
+      <created>1587603783520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587603783520</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MybatisTest_findCustomerByNameAndJobsTest - 2020.04.19 at 22h 52m 10s.xml">
+      <configuration name="MybatisTest.findCustomerByNameAndJobsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findCustomerByNameAndJobsTest - 2020.04.19 at 22h 52m 27s.xml">
+      <configuration name="MybatisTest.findCustomerByNameAndJobsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findCustomerByNameAndJobsTest - 2020.04.19 at 22h 52m 56s.xml">
+      <configuration name="MybatisTest.findCustomerByNameAndJobsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_StringTest - 2020.04.23 at 09h 10m 57s.xml">
+      <configuration name="StringTest.StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_StringTest - 2020.04.23 at 09h 12m 01s.xml">
+      <configuration name="StringTest.StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_StringTest - 2020.04.23 at 09h 13m 01s.xml">
+      <configuration name="StringTest.StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_dynamicForeach3Test - 2020.04.24 at 09h 54m 25s.xml">
+      <configuration name="MybatisTest.dynamicForeach3Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_dynamicForeach3Test - 2020.04.24 at 09h 56m 06s.xml">
+      <configuration name="MybatisTest.dynamicForeach3Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_dynamicForeach3Test - 2020.04.24 at 09h 56m 26s.xml">
+      <configuration name="MybatisTest.dynamicForeach3Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_dynamicForeachMapTest - 2020.04.24 at 09h 59m 02s.xml">
+      <configuration name="MybatisTest.dynamicForeachMapTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587695563299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1587695563299" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587695500842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587695500842" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1587695502156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587695502156" />
+  </component>
+</project>
